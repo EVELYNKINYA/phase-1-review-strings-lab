@@ -47,7 +47,7 @@ declared `currentUser`:
 ```js
 const currentUser = 'Grace Hopper';
 
-const welcomeMessage = 'Welcome to Flatbook, ';
+const welcomeMessage = 'currentUser';
 ```
 
 Rerun the tests; you should see a second passing test.
